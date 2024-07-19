@@ -1,0 +1,9 @@
+export const INDEX_ROUTE = "/";
+export const CURS_ROUTE = "/curs";
+export const LEXICAL_ROUTE = "/lexical";
+export const DICTIONARY_ROUTE = "/dictionary";
+export const AUDACITY_ROUTE = "/audacity";
+export const REG_ROUTE = "/reg";
+export const LOGIN_ROUTE = "/login";
+export const HOMEWORK_ROUTE = "/homework";
+export const ADMIN_ROUTE = "/adminpanel";

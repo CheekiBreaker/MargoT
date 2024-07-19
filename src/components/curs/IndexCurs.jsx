@@ -1,0 +1,21 @@
+import React from "react";
+const Body = () => {
+  return (
+    <body>
+      <section className="content">
+      <div className="hello__person">
+          <div className="hello__instruction">
+            <div className="instr__text">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. In
+              expedita similique molestias assumenda nihil quas magnam nobis
+              maiores dolores ducimus eos error rem, nemo, porro a ullam. Error,
+              eius accusantium!
+            </div>
+          </div>
+        </div>
+      </section>
+    </body>
+  );
+};
+
+export default Body;

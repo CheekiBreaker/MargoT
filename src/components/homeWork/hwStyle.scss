@@ -1,0 +1,17 @@
+.content__hw {
+  justify-content: center;
+  display: flex;
+  width: 100%;
+}
+
+.hw {
+  min-width: 200px;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  display: flex;
+  width: 80%;
+  border-radius: 20px;
+  background-color: #ffc8c5;
+  flex-direction: column;
+}

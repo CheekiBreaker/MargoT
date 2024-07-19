@@ -1,0 +1,20 @@
+.audacity {
+  min-width: 200px;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  display: flex;
+  width: 80%;
+  border-radius: 20px;
+  background-color: #ffc8c5;
+  flex-direction: column;
+}
+
+.audio {
+  margin: 20px 40px 30px;
+}
+.content__audacity{
+  justify-content: center;
+  display: flex;
+  width: 100%;
+}
